@@ -65,7 +65,7 @@ Spring Boot 同时也提供了一个可选的 [Maven 插件](https://docs.spring
 ```
 
 > 使用 Spring Boot 时继承 `spring-boot-starter-parent` 是一个好的方式，但这并不是任何时候都是适用的。有时你可能需要继承其他的父 POM 或者你不想使用默认的设置。
-这种情况下，请参考 [Section 13.2.2 不使用父 POM](./part13/)
+这种情况下，请参考 [Section 13.2.2 不使用父 POM](../part3/13-build-systems)
 使用 `import` 范围作为替代解决方式。
 
 ### Gradle 方式安装

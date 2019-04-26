@@ -6,3 +6,11 @@ actionLink: /guide/
 features:
 footer: MIT Licensed | Copyright © 2019-present zzitbar.com
 ---
+
+````
+git clone
+
+cd spring-boot-reference
+
+npx vuepress dev ./
+````
