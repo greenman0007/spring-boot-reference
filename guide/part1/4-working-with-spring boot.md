@@ -1,0 +1,9 @@
+# 使用 Spring Boot
+
+准备好开始使用 Spring Boot 了吗？我们为你提供：
+
+- 构建系统：[Maven](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-build-systems.html#using-boot-maven) | [Gradle](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-build-systems.html#using-boot-gradle) | [Ant](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-build-systems.html#using-boot-ant) | [Starters](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-build-systems.html#using-boot-starter)
+- 最佳实践：[代码结构](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-structuring-your-code.html) | [@Configuration](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-configuration-classes.html) | [@EnableAutoConfiguration](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-auto-configuration.html) | [依赖注入](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-spring-beans-and-dependency-injection.html)
+- 运行代码：[IDE](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-running-your-application.html#using-boot-running-from-an-ide) | [Jar包运行](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-running-your-application.html#using-boot-running-as-a-packaged-application) | [Maven插件](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-running-your-application.html#using-boot-running-with-the-maven-plugin) | [Gradle插件](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-running-your-application.html#using-boot-running-with-the-gradle-plugin)
+- 打包：[生产环境打包](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/using-boot-packaging-for-production.html)
+- 命令行工具：[命令行工具](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/cli.html)
